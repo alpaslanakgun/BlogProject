@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogProject.Services</name>
+    </assembly>
+    <members>
+        <member name="M:ProgrammersBlog.Services.Concrete.CategoryManager.DeleteAsync(System.Int32,System.String)">
+            <summary>
+            Soft Delete
+            </summary>
+            <param name="categoryId"></param>
+            <param name="modifiedByName"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+    </members>
+</doc>
